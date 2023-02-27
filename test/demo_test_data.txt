@@ -1,0 +1,113 @@
+## Manager account
+
+# In administrator page, created by administrator：
+username: 		manager	
+Real Name: 		Mary Green 
+Password:		manager 
+emplyeeID: 		1214534546 
+telephone number: 	1395647830	
+email: 			mary@163.com
+
+# In administrator page, created by administrator:
+username: 		salreplili
+Real Name: 		Lili Bing 
+Password:		salreplili
+emplyeeID: 		1267852
+telephone number: 	19825341677
+email: 			lili@163.com
+
+username: 		salrepchary
+Real Name: 		Chary
+Password:		salrepchary
+emplyeeID: 		1267876
+telephone number: 	13225341676
+email: 			Chary@163.com
+
+username: 		salerepwei
+Real Name: 		wei Li
+Password:		salerepwei
+emplyeeID: 		1263022
+telephone number: 	19825343451
+email: 			wei@163.com
+
+username: 		salrepChily
+Real Name: 		Chily
+Password:		salrepChily
+emplyeeID: 		1264251
+telephone number: 	15390341670
+email: 			Chily@163.com
+
+username: 		salerepcoco
+Real Name: 		Tom
+Password:		salerepcoco
+emplyeeID: 		1263053
+telephone number: 	19825341623
+email: 			coco@163.com
+
+
+# In manager page, created by manager:
+sale rep's username:	salreplili
+Regin:			China
+quota:			1000
+
+sale rep's username:	salrepchary
+Regin:			China
+quota:			1000
+
+sale rep's username:	salerepwei
+Regin:			China
+quota:			1000
+
+sale rep's username:	salrepChily
+Regin:			UK
+quota:			1000
+
+sale rep's username:	salerepcoco
+Regin:			UK
+quota:			1000
+
+# In register page
+Username:		Tomy003
+Real Name:		Tomy Bruth
+Passport ID:		M12312456
+Telephone Number:	13878625309
+region: 			China
+Email:			Tomy@163.com
+Password:		Tomy003
+Repeat Password:		Tomy003
+
+Username:		Tomy004
+Real Name:		Tomy Smith
+Passport ID:		M12312422
+Telephone Number:	13778628965
+region: 			China
+Email:			TomyS@163.com
+Password:		Tomy004
+Repeat Password:		Tomy004
+
+Username:		Tomy005
+Real Name:		Tomy Blue
+Passport ID:		M36312456
+Telephone Number:	13879995309
+region: 			China
+Email:			TomyB@163.com
+Password:		Tomy005
+Repeat Password:		Tomy005
+
+Username:		Tomy006
+Real Name:		Tomy Alan
+Passport ID:		M19312457
+Telephone Number:	13878625333
+region: 			UK
+Email:			TomyA@163.com
+Password:		Tomy006
+Repeat Password:		Tomy006
+
+Username:		Tomy007
+Real Name:		Tomy Jury
+Passport ID:		M98712226
+Telephone Number:	13866625309
+region: 			UK
+Email:			TomyJ@163.com
+Password:		Tomy007
+Repeat Password:		Tomy007

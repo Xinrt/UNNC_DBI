@@ -1,0 +1,119 @@
+.component {
+	position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-image: url('image1.jpg');
+    background-blend-mode: multiply;
+    background-attachment: scroll;
+    background-position: right center; 
+    background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+.cover {
+	position: absolute;
+    left: 28%;
+    right: 28%;
+    top: 25%;
+	bottom: 15%;
+	background-color: #ffffff;
+	border: 1px solid black;
+	border-radius: 15px;
+	opacity: 0.8;
+	/* background-color:rgba(1,0,0,0.2);  */
+}
+
+.content {
+	position: absolute;
+	font-style: Sans-serif;
+    left: 20%;
+    right: 20%;
+    top: 20%;
+	bottom: 20%;
+	font-weight:bold;
+  	color:#000000;
+}
+
+.bigTitle {
+	position: absolute;
+	font-size: 3.5vw;
+	font-style: Sans-serif;
+	margin-top: 5%;
+	margin-left: 28%;
+}
+
+.title {
+	position: absolute;
+	font-size: 1.8vw;
+	font-style: Sans-serif;
+	top: -6vw;
+	left: 7vw;
+}
+
+.textTable {
+	position: absolute;
+	top: 5vw;
+	font-size: 1.5vw;
+	line-height: 3vw;
+}
+
+.box {
+	border: 1px solid #4c6ca0;
+	border-radius: 8px;
+	height: 2vw;
+}
+
+.prompt {
+    position: absolute;
+    color: red;
+	bottom: -3vw;
+	font-size: 1.2vw;
+}
+
+a:hover {
+    color: #E63F00;
+}
+
+.loginButton:hover {
+	background-color: #0044BB;
+} 
+
+.resetButton:hover {
+	background-color: #FF3333 ;
+} 
+
+.loginButton {
+	position: absolute;
+	top: 8vw;
+	left: 21vw;
+	background: #4c6ca0;
+	color: #fff;
+	border: none;
+	font-size: 1vw;
+	padding: 8px 15px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.resetButton {
+	position: absolute;
+	top: 8vw;
+	left: 27vw;
+	background: #FF8888;
+	color: #fff;
+	border: none;
+	font-size: 1vw;
+	padding: 8px 15px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.foot {
+	position: absolute;
+	bottom: -10vw;
+	font-size: 1.2vw;
+	font-style: Sans-serif;
+	line-height: normal;
+}

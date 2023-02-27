@@ -1,0 +1,111 @@
+.component {
+	position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-image: url('image2.jpg');
+    background-blend-mode: multiply;
+    background-attachment: scroll;
+    background-position: right center; 
+    background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+.cover {
+	position: absolute;
+    left: 25%;
+    right: 25%;
+    top: 2%;
+	bottom: 2%;
+	background-color: #ffffff;
+	border: 1px solid black;
+	border-radius: 15px;
+	opacity: 0.8;
+}
+
+.content {
+	position: absolute;
+	font-style: Sans-serif;
+    left: 20%;
+    right: 20%;
+    top: 20%;
+	bottom: 20%;
+	font-weight:bold;
+  	color:#000000;
+}
+
+.title {
+	position: absolute;
+	font-size: 1.5vw;
+	font-style: Sans-serif;
+	top: -10vw;
+	left: 7vw;
+}
+
+.textTable {
+	position: absolute;
+	top: -2vw;
+	font-size: 1.4vw;
+	line-height: 3vw;
+}
+
+.box {
+	border: 1px solid #4c6ca0;
+	border-radius: 8px;
+	height: 2vw;
+}
+
+.prompt {
+    position: absolute;
+    color: red;
+	bottom: -3vw;
+	font-size: 1.2vw;
+}
+
+a:hover {
+    color: #E63F00;
+}
+
+.registerButton:hover {
+	background-color: #0044BB;
+} 
+
+.resetButton:hover {
+	background-color: #FF3333 ;
+} 
+
+.registerButton {
+	position: absolute;
+	top: 28vw;
+	left: 26vw;
+	background: #4c6ca0;
+	color: #fff;
+	border: none;
+	font-size: 1vw;
+	padding: 8px 15px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.resetButton {
+	position: absolute;
+	top: 28vw;
+	left: 32vw;
+	background: #FF8888;
+	color: #fff;
+	border: none;
+	font-size: 1vw;
+	padding: 8px 15px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.foot {
+	position: absolute;
+	bottom: -6vw;
+	left: -12vw;
+	font-size: 1.3vw;
+	font-style: Sans-serif;
+	line-height: normal;
+}

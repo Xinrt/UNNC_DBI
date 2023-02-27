@@ -1,0 +1,137 @@
+.component {
+	position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-image: url('image2.jpg');
+    background-blend-mode: multiply;
+    background-attachment: scroll;
+    background-position: right center; 
+    background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+
+.bigTitle {
+	position: absolute;
+	font-size: 3.2vw;
+	font-style: Sans-serif;
+	top: 5vw;
+	left: 40vw;
+	color: #E63F00 ;
+}
+
+.warn {
+    position: absolute;
+	top: 11vw;;
+	left: 10vw;
+}
+
+.show {
+	position: absolute;
+	top: 13vw;;
+	left: 6vw;
+	font-size: 1.2vw;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+.tableroll {
+    margin-top: 25vw;
+	margin-left: 10vw;
+}
+
+.list {
+	/* position: absolute; */
+	font-size: 1.2vw;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+table td, table th {
+	border: 1px solid #cad9ea;
+	color: #666;
+	height: 20px;
+}
+
+table th {
+	background-color: #0088A8;
+	color: white;
+	width: 100px;
+}
+
+table tr:nth-child(odd){
+	background: #fff;
+}
+
+table tr:nth-child(even){
+	background: #F5FAFA;
+}
+
+.prompt {
+    position: absolute;
+    color: red;
+	bottom: -3vw;
+	font-size: 1.2vw;
+}
+
+a:hover {
+	color: #E63F00;
+	cursor: pointer;
+}
+
+.okButton:hover {
+	background-color: #0044BB;
+} 
+
+.resetButton:hover {
+	background-color: #FF3333 ;
+} 
+
+.okButton {
+	position: absolute;
+	top: 20vw;
+	right: 25vw;
+	background: #4c6ca0;
+	color: #fff;
+	border: none;
+	font-size: 1.3vw;
+	padding: 8px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.resetButton {
+	position: absolute;
+	top: 20vw;
+	right: 15vw;
+	background: #FF8888;
+	color: #fff;
+	border: none;
+	font-size: 1vw;
+	padding: 8px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.return {
+	position: absolute;
+	top: 25vw;
+	right: 15vw;
+}
+
+.turn {
+	position: absolute;
+	top: 25vw;
+	right: 15vw;
+}
+
+.exit {
+	position: absolute;
+	top: 3vw;
+	right: 7vw;
+	color: #003377;
+	font-size: 1.5vw;
+	padding: 8px 15px;
+}

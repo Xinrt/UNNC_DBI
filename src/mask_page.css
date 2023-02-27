@@ -1,0 +1,116 @@
+body {
+	background-image: url('image2.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.bigTitle {
+	font-size: 40px;
+	font-style: Sans-serif;
+	margin-top: 10px;
+	margin-left: 600px;
+	color: #E63F00 ;
+}
+
+.MaskN95 {
+	padding-top: 20px;
+	padding-left: 250px
+}
+
+.N95 {
+    width: 220px;
+    height: 220px;
+}
+
+.Masksurgical {
+    margin-top: -340px;
+	margin-left: 550px;
+}
+
+.surgical {
+    width: 220px;
+    height: 220px;
+}
+
+.MasksurgicalN95 {
+    margin-top: -340px;
+	margin-left: 850px;
+}
+
+
+.surgicalN95 {
+    width: 220px;
+    height: 220px;
+}
+
+.text {
+	bottom: -10px;
+	left: 0px;
+	font-size: 20px;
+	line-height: 38px;
+	font-style: Sans-serif;
+	color: #000088;
+}
+
+.box {
+	border: 1px solid #4c6ca0;
+	border-radius: 5px;
+	height: 25px;
+	width: 50px;
+}
+
+.box2 {
+	border: 1px solid #E63F00;
+	border-radius: 5px;
+	height: 25px;
+	width: 50px;
+}
+
+.total {
+	margin-left: 250px;
+	font-size: 28px;
+	font-style: Sans-serif;
+	color: #000088;
+}
+
+.box3 {
+	border: 1px solid #E63F00;
+	border-radius: 5px;
+	height: 25px;
+	width: 80px;
+}
+
+
+.submitButton {
+	margin-left: 80px;
+	background: #003377;
+	color: #fff;
+	border: none;
+	font-size: 20px;
+	padding: 7px 100px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.submitButton:hover {
+	background-color: #0044BB;
+}
+
+a:hover {
+    color: #E63F00;
+}
+
+.order {
+	margin-left: 100px;
+	color: #003377;
+	font-size: 20px;
+	padding: 8px 15px;
+}
+
+.exit {
+	margin-left: 300px;
+	color: #003377;
+	font-size: 1.5vw;
+	padding: 8px 15px;
+}

@@ -1,0 +1,73 @@
+.component {
+	position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-image: url('image2.jpg');
+    background-blend-mode: multiply;
+    background-attachment: scroll;
+    background-position: right center; 
+    background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+
+.bigTitle {
+	position: absolute;
+	font-size: 3.2vw;
+	font-style: Sans-serif;
+	margin-top: 4%;
+	margin-left: 7%;
+	color: #E63F00 ;
+}
+
+.tableroll {
+	/* position: absolute; */
+	margin-top: 10vw;
+	margin-left: 6vw;
+}
+
+
+.show {
+	/* position: absolute; */
+	top: 10vw;;
+	left: 6vw;
+	font-size: 1.2vw;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+table td, table th {
+	border: 1px solid #cad9ea;
+	color: #666;
+	height: 20px;
+}
+
+table th {
+	background-color: #0088A8;
+	color: white;
+	width: 100px;
+}
+
+table tr:nth-child(odd){
+	background: #fff;
+}
+
+table tr:nth-child(even){
+	background: #F5FAFA;
+}
+
+a:hover {
+	color: #E63F00;
+	cursor: pointer;
+}
+
+.exit {
+	position: absolute;
+	top: 3vw;
+	right: 7vw;
+	color: #003377;
+	font-size: 1.5vw;
+	padding: 8px 15px;
+}
